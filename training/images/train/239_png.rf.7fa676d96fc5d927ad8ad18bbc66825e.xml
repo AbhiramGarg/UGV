@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>239_png.rf.7fa676d96fc5d927ad8ad18bbc66825e.jpg</filename>
+	<path>239_png.rf.7fa676d96fc5d927ad8ad18bbc66825e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soldier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>225</xmin>
+			<xmax>641</xmax>
+			<ymin>44</ymin>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+</annotation>
